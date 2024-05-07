@@ -10,3 +10,4 @@ Este repositorio es un espacio dedicado a la implementación y experimentación 
 
 Exploremos el fascinante mundo de la inteligencia artificial.
 
+[Tensorflow PlayGround](https://playground.tensorflow.org/)
