@@ -1,0 +1,9 @@
+### POST request
+POST http://localhost:5000/prompt
+Content-Type: application/json
+
+{
+   "prompt": "Give me the top five customers based on their purchases"
+}
+
+###
